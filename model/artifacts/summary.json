@@ -1,0 +1,103 @@
+{
+ "period": [
+  "2026-09-17",
+  "2026-10-21"
+ ],
+ "days": 35,
+ "meals": 105,
+ "servings_served": 42219,
+ "cost_per_serving_rs": 60,
+ "waste_current": 6406,
+ "waste_messwise": 2829,
+ "waste_baseline_method": 4839,
+ "waste_avoided_servings": 3577,
+ "cost_saved_rs": 214620,
+ "waste_reduction_pct": 55.83827661567281,
+ "waste_reduction_vs_baseline_pct": 41.53750774953503,
+ "monthly_cost_saved_rs": 183960,
+ "shortage_meals_current": 14,
+ "shortage_meals_messwise": 14,
+ "shortage_meals_baseline_method": 18,
+ "worst_meals": [
+  {
+   "date": "2026-10-02",
+   "meal": "breakfast",
+   "menu_item": "Idli Sambar",
+   "actual": 151,
+   "prepared": 406,
+   "gap": 255,
+   "recommended": 250,
+   "flag": "over"
+  },
+  {
+   "date": "2026-10-02",
+   "meal": "lunch",
+   "menu_item": "Curd Rice Meals",
+   "actual": 273,
+   "prepared": 514,
+   "gap": 241,
+   "recommended": 344,
+   "flag": "over"
+  },
+  {
+   "date": "2026-10-02",
+   "meal": "dinner",
+   "menu_item": "Veg Fried Rice",
+   "actual": 262,
+   "prepared": 471,
+   "gap": 209,
+   "recommended": 344,
+   "flag": "over"
+  },
+  {
+   "date": "2026-09-30",
+   "meal": "lunch",
+   "menu_item": "Sambar Rice",
+   "actual": 408,
+   "prepared": 569,
+   "gap": 161,
+   "recommended": 449,
+   "flag": "over"
+  },
+  {
+   "date": "2026-10-14",
+   "meal": "lunch",
+   "menu_item": "Sambar Rice",
+   "actual": 409,
+   "prepared": 557,
+   "gap": 148,
+   "recommended": 459,
+   "flag": "over"
+  },
+  {
+   "date": "2026-10-18",
+   "meal": "lunch",
+   "menu_item": "Chicken Biryani",
+   "actual": 523,
+   "prepared": 448,
+   "gap": -75,
+   "recommended": 505,
+   "flag": "short"
+  },
+  {
+   "date": "2026-10-21",
+   "meal": "dinner",
+   "menu_item": "Parotta Salna",
+   "actual": 551,
+   "prepared": 485,
+   "gap": -66,
+   "recommended": 551,
+   "flag": "short"
+  },
+  {
+   "date": "2026-09-24",
+   "meal": "lunch",
+   "menu_item": "Veg Fried Rice",
+   "actual": 524,
+   "prepared": 469,
+   "gap": -55,
+   "recommended": 522,
+   "flag": "short"
+  }
+ ]
+}

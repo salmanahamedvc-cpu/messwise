@@ -1,0 +1,550 @@
+date,day_of_week,meal,menu_item,menu_popularity_score,is_holiday,is_exam_week,is_weekend,weather,expected_attendance,actual_servings,food_prepared,food_wasted,shortage_flag
+2026-04-22,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,377,395,411,16,0
+2026-04-22,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,472,448,529,81,0
+2026-04-22,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,474,555,531,0,1
+2026-04-23,Thursday,breakfast,Upma,2,0,0,0,normal,367,325,405,80,0
+2026-04-23,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,476,513,529,16,0
+2026-04-23,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,437,476,487,11,0
+2026-04-24,Friday,breakfast,Masala Dosa,5,0,0,0,normal,357,418,413,0,1
+2026-04-24,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,447,457,504,47,0
+2026-04-24,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,393,437,435,0,1
+2026-04-25,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,306,323,344,21,0
+2026-04-25,Saturday,lunch,Veg Meals,3,0,0,1,normal,441,426,495,69,0
+2026-04-25,Saturday,dinner,Chapati Dal,3,0,0,1,normal,416,411,470,59,0
+2026-04-26,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,279,334,311,0,1
+2026-04-26,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,409,545,456,0,1
+2026-04-26,Sunday,dinner,Veg Pulao,3,0,0,1,normal,321,316,364,48,0
+2026-04-27,Monday,breakfast,Idli Sambar,4,0,0,0,rain,357,349,392,43,0
+2026-04-27,Monday,lunch,Veg Meals,3,0,0,0,rain,492,451,552,101,0
+2026-04-27,Monday,dinner,Chapati Dal,3,0,0,0,rain,460,440,519,79,0
+2026-04-28,Tuesday,breakfast,Pongal,3,0,0,0,hot,353,352,393,41,0
+2026-04-28,Tuesday,lunch,Lemon Rice,3,0,0,0,hot,469,464,525,61,0
+2026-04-28,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,hot,471,463,527,64,0
+2026-04-29,Wednesday,breakfast,Poori Masala,4,0,0,0,hot,334,362,366,4,0
+2026-04-29,Wednesday,lunch,Sambar Rice,2,0,0,0,hot,458,430,511,81,0
+2026-04-29,Wednesday,dinner,Parotta Salna,5,0,0,0,hot,473,531,524,0,1
+2026-04-30,Thursday,breakfast,Masala Dosa,5,0,0,0,hot,375,420,410,0,1
+2026-04-30,Thursday,lunch,Veg Fried Rice,4,0,0,0,hot,466,492,513,21,0
+2026-04-30,Thursday,dinner,Egg Curry Rice,4,0,0,0,hot,452,469,506,37,0
+2026-05-01,Friday,breakfast,Idli Sambar,4,0,0,0,normal,352,360,396,36,0
+2026-05-01,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,474,479,540,61,0
+2026-05-01,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,391,429,436,7,0
+2026-05-02,Saturday,breakfast,Chapati Kurma,3,0,0,1,hot,294,314,323,9,0
+2026-05-02,Saturday,lunch,Veg Meals,3,0,0,1,hot,465,413,538,125,0
+2026-05-02,Saturday,dinner,Chapati Dal,3,0,0,1,hot,367,396,413,17,0
+2026-05-03,Sunday,breakfast,Masala Dosa,5,0,0,1,hot,286,333,327,0,1
+2026-05-03,Sunday,lunch,Chicken Biryani,5,0,0,1,hot,423,498,464,0,1
+2026-05-03,Sunday,dinner,Veg Pulao,3,0,0,1,hot,337,309,378,69,0
+2026-05-04,Monday,breakfast,Idli Sambar,4,0,0,0,rain,343,325,380,55,0
+2026-05-04,Monday,lunch,Veg Meals,3,0,0,0,rain,500,452,555,103,0
+2026-05-04,Monday,dinner,Chapati Dal,3,0,0,0,rain,452,453,506,53,0
+2026-05-05,Tuesday,breakfast,Pongal,3,0,0,0,normal,338,354,371,17,0
+2026-05-05,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,484,507,541,34,0
+2026-05-05,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,461,477,514,37,0
+2026-05-06,Wednesday,breakfast,Masala Dosa,5,0,0,0,hot,363,448,399,0,1
+2026-05-06,Wednesday,lunch,Sambar Rice,2,0,0,0,hot,521,449,582,133,0
+2026-05-06,Wednesday,dinner,Parotta Salna,5,0,0,0,hot,431,566,477,0,1
+2026-05-07,Thursday,breakfast,Upma,2,0,0,0,normal,357,335,402,67,0
+2026-05-07,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,495,515,542,27,0
+2026-05-07,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,420,464,465,1,0
+2026-05-08,Friday,breakfast,Idli Sambar,4,0,0,0,normal,350,356,389,33,0
+2026-05-08,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,478,482,543,61,0
+2026-05-08,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,406,428,456,28,0
+2026-05-09,Saturday,breakfast,Masala Dosa,5,0,0,1,normal,320,375,374,0,1
+2026-05-09,Saturday,lunch,Veg Meals,3,0,0,1,normal,416,410,457,47,0
+2026-05-09,Saturday,dinner,Chapati Dal,3,0,0,1,normal,435,415,483,68,0
+2026-05-10,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,273,338,303,0,1
+2026-05-10,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,444,547,487,0,1
+2026-05-10,Sunday,dinner,Veg Pulao,3,0,0,1,normal,290,333,318,0,1
+2026-05-11,Monday,breakfast,Masala Dosa,5,0,0,0,normal,353,407,397,0,1
+2026-05-11,Monday,lunch,Veg Meals,3,0,0,0,normal,474,463,536,73,0
+2026-05-11,Monday,dinner,Chapati Dal,3,0,0,0,normal,453,450,499,49,0
+2026-05-12,Tuesday,breakfast,Masala Dosa,5,0,0,0,rain,350,377,395,18,0
+2026-05-12,Tuesday,lunch,Lemon Rice,3,0,0,0,rain,488,468,547,79,0
+2026-05-12,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,rain,463,436,518,82,0
+2026-05-13,Wednesday,breakfast,Poori Masala,4,0,0,0,hot,346,390,381,0,1
+2026-05-13,Wednesday,lunch,Sambar Rice,2,0,0,0,hot,492,428,541,113,0
+2026-05-13,Wednesday,dinner,Parotta Salna,5,0,0,0,hot,431,547,480,0,1
+2026-05-14,Thursday,breakfast,Upma,2,0,0,0,normal,358,331,399,68,0
+2026-05-14,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,418,540,467,0,1
+2026-05-14,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,439,483,481,0,1
+2026-05-15,Friday,breakfast,Idli Sambar,4,0,0,0,hot,364,354,406,52,0
+2026-05-15,Friday,lunch,Curd Rice Meals,3,0,0,0,hot,458,426,521,95,0
+2026-05-15,Friday,dinner,Veg Fried Rice,4,0,0,0,hot,435,466,490,24,0
+2026-05-16,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,312,326,350,24,0
+2026-05-16,Saturday,lunch,Veg Meals,3,0,0,1,normal,398,437,450,13,0
+2026-05-16,Saturday,dinner,Chapati Dal,3,0,0,1,normal,434,411,491,80,0
+2026-05-17,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,287,321,314,0,1
+2026-05-17,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,461,555,512,0,1
+2026-05-17,Sunday,dinner,Veg Pulao,3,0,0,1,normal,291,310,322,12,0
+2026-05-18,Monday,breakfast,Idli Sambar,4,0,0,0,normal,371,401,402,1,0
+2026-05-18,Monday,lunch,Veg Meals,3,0,0,0,normal,490,481,558,77,0
+2026-05-18,Monday,dinner,Chapati Dal,3,0,0,0,normal,469,447,516,69,0
+2026-05-19,Tuesday,breakfast,Pongal,3,0,0,0,rain,350,326,397,71,0
+2026-05-19,Tuesday,lunch,Lemon Rice,3,0,0,0,rain,486,469,546,77,0
+2026-05-19,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,rain,453,445,510,65,0
+2026-05-20,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,387,384,429,45,0
+2026-05-20,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,500,450,560,110,0
+2026-05-20,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,475,554,535,0,1
+2026-05-21,Thursday,breakfast,Upma,2,0,0,0,normal,389,311,433,122,0
+2026-05-21,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,442,537,488,0,1
+2026-05-21,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,457,465,515,50,0
+2026-05-22,Friday,breakfast,Masala Dosa,5,0,0,0,normal,350,379,389,10,0
+2026-05-22,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,469,477,530,53,0
+2026-05-22,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,396,447,442,0,1
+2026-05-23,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,325,312,362,50,0
+2026-05-23,Saturday,lunch,Chicken Biryani,5,0,0,1,normal,395,464,434,0,1
+2026-05-23,Saturday,dinner,Chapati Dal,3,0,0,1,normal,426,401,475,74,0
+2026-05-24,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,287,356,330,0,1
+2026-05-24,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,433,511,476,0,1
+2026-05-24,Sunday,dinner,Veg Pulao,3,0,0,1,normal,323,306,372,66,0
+2026-05-25,Monday,breakfast,Masala Dosa,5,0,0,0,normal,369,409,412,3,0
+2026-05-25,Monday,lunch,Veg Meals,3,0,0,0,normal,465,496,518,22,0
+2026-05-25,Monday,dinner,Chapati Dal,3,0,0,0,normal,466,446,521,75,0
+2026-05-26,Tuesday,breakfast,Pongal,3,0,0,0,normal,354,377,388,11,0
+2026-05-26,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,507,474,570,96,0
+2026-05-26,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,500,462,572,110,0
+2026-05-27,Wednesday,breakfast,Poori Masala,4,1,0,0,hot,345,220,388,168,0
+2026-05-27,Wednesday,lunch,Sambar Rice,2,1,0,0,hot,460,257,506,249,0
+2026-05-27,Wednesday,dinner,Parotta Salna,5,1,0,0,hot,446,336,498,162,0
+2026-05-28,Thursday,breakfast,Upma,2,0,0,0,normal,366,324,407,83,0
+2026-05-28,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,495,517,552,35,0
+2026-05-28,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,447,459,516,57,0
+2026-05-29,Friday,breakfast,Idli Sambar,4,0,0,0,normal,359,375,402,27,0
+2026-05-29,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,476,453,528,75,0
+2026-05-29,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,424,449,481,32,0
+2026-05-30,Saturday,breakfast,Chapati Kurma,3,0,0,1,rain,312,283,355,72,0
+2026-05-30,Saturday,lunch,Veg Meals,3,0,0,1,rain,380,405,417,12,0
+2026-05-30,Saturday,dinner,Chapati Dal,3,0,0,1,rain,396,415,435,20,0
+2026-05-31,Sunday,breakfast,Masala Dosa,5,0,0,1,hot,294,369,326,0,1
+2026-05-31,Sunday,lunch,Chicken Biryani,5,0,0,1,hot,440,473,493,20,0
+2026-05-31,Sunday,dinner,Parotta Salna,5,0,0,1,hot,315,376,357,0,1
+2026-06-01,Monday,breakfast,Idli Sambar,4,0,0,0,rain,343,358,379,21,0
+2026-06-01,Monday,lunch,Veg Meals,3,0,0,0,rain,514,462,573,111,0
+2026-06-01,Monday,dinner,Egg Curry Rice,4,0,0,0,rain,492,482,549,67,0
+2026-06-02,Tuesday,breakfast,Pongal,3,0,0,0,rain,332,322,376,54,0
+2026-06-02,Tuesday,lunch,Lemon Rice,3,0,0,0,rain,423,484,469,0,1
+2026-06-02,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,rain,462,434,516,82,0
+2026-06-03,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,342,388,387,0,1
+2026-06-03,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,493,452,554,102,0
+2026-06-03,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,449,536,498,0,1
+2026-06-04,Thursday,breakfast,Upma,2,0,0,0,normal,359,324,404,80,0
+2026-06-04,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,502,500,567,67,0
+2026-06-04,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,459,467,515,48,0
+2026-06-05,Friday,breakfast,Masala Dosa,5,0,0,0,normal,333,416,374,0,1
+2026-06-05,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,495,487,553,66,0
+2026-06-05,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,387,402,432,30,0
+2026-06-06,Saturday,breakfast,Masala Dosa,5,0,0,1,normal,298,400,329,0,1
+2026-06-06,Saturday,lunch,Veg Meals,3,0,0,1,normal,397,446,446,0,0
+2026-06-06,Saturday,dinner,Chapati Dal,3,0,0,1,normal,384,387,428,41,0
+2026-06-07,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,262,343,297,0,1
+2026-06-07,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,432,550,480,0,1
+2026-06-07,Sunday,dinner,Veg Pulao,3,0,0,1,normal,317,318,345,27,0
+2026-06-08,Monday,breakfast,Masala Dosa,5,0,1,0,rain,334,320,377,57,0
+2026-06-08,Monday,lunch,Veg Meals,3,0,1,0,rain,497,414,558,144,0
+2026-06-08,Monday,dinner,Chapati Dal,3,0,1,0,rain,446,446,500,54,0
+2026-06-09,Tuesday,breakfast,Pongal,3,0,1,0,normal,350,311,390,79,0
+2026-06-09,Tuesday,lunch,Lemon Rice,3,0,1,0,normal,422,430,482,52,0
+2026-06-09,Tuesday,dinner,Idiyappam Kurma,3,0,1,0,normal,412,427,460,33,0
+2026-06-10,Wednesday,breakfast,Poori Masala,4,0,1,0,rain,370,277,418,141,0
+2026-06-10,Wednesday,lunch,Sambar Rice,2,0,1,0,rain,529,413,594,181,0
+2026-06-10,Wednesday,dinner,Parotta Salna,5,0,1,0,rain,470,498,516,18,0
+2026-06-11,Thursday,breakfast,Upma,2,0,1,0,hot,357,303,410,107,0
+2026-06-11,Thursday,lunch,Chicken Biryani,5,0,1,0,hot,459,506,515,9,0
+2026-06-11,Thursday,dinner,Egg Curry Rice,4,0,1,0,hot,409,449,458,9,0
+2026-06-12,Friday,breakfast,Idli Sambar,4,0,1,0,normal,319,317,348,31,0
+2026-06-12,Friday,lunch,Curd Rice Meals,3,0,1,0,normal,406,425,459,34,0
+2026-06-12,Friday,dinner,Veg Fried Rice,4,0,1,0,normal,383,407,434,27,0
+2026-06-13,Saturday,breakfast,Chapati Kurma,3,0,1,1,rain,323,240,364,124,0
+2026-06-13,Saturday,lunch,Veg Meals,3,0,1,1,rain,436,392,496,104,0
+2026-06-13,Saturday,dinner,Chapati Dal,3,0,1,1,rain,401,376,454,78,0
+2026-06-14,Sunday,breakfast,Masala Dosa,5,0,1,1,rain,293,250,327,77,0
+2026-06-14,Sunday,lunch,Chicken Biryani,5,0,1,1,rain,428,438,475,37,0
+2026-06-14,Sunday,dinner,Veg Pulao,3,0,1,1,rain,296,279,330,51,0
+2026-06-15,Monday,breakfast,Masala Dosa,5,0,1,0,hot,359,348,408,60,0
+2026-06-15,Monday,lunch,Veg Meals,3,0,1,0,hot,493,411,551,140,0
+2026-06-15,Monday,dinner,Chapati Dal,3,0,1,0,hot,472,433,522,89,0
+2026-06-16,Tuesday,breakfast,Pongal,3,0,1,0,rain,332,258,376,118,0
+2026-06-16,Tuesday,lunch,Lemon Rice,3,0,1,0,rain,478,418,542,124,0
+2026-06-16,Tuesday,dinner,Idiyappam Kurma,3,0,1,0,rain,435,402,496,94,0
+2026-06-17,Wednesday,breakfast,Poori Masala,4,0,1,0,hot,340,314,383,69,0
+2026-06-17,Wednesday,lunch,Sambar Rice,2,0,1,0,hot,475,402,534,132,0
+2026-06-17,Wednesday,dinner,Egg Curry Rice,4,0,1,0,hot,419,477,456,0,1
+2026-06-18,Thursday,breakfast,Upma,2,0,1,0,rain,327,241,367,126,0
+2026-06-18,Thursday,lunch,Veg Fried Rice,4,0,1,0,rain,492,492,549,57,0
+2026-06-18,Thursday,dinner,Egg Curry Rice,4,0,1,0,rain,440,445,487,42,0
+2026-06-19,Friday,breakfast,Idli Sambar,4,0,1,0,normal,333,330,378,48,0
+2026-06-19,Friday,lunch,Curd Rice Meals,3,0,1,0,normal,495,440,558,118,0
+2026-06-19,Friday,dinner,Veg Fried Rice,4,0,1,0,normal,417,426,456,30,0
+2026-06-20,Saturday,breakfast,Chapati Kurma,3,0,0,1,rain,343,266,395,129,0
+2026-06-20,Saturday,lunch,Veg Meals,3,0,0,1,rain,451,413,505,92,0
+2026-06-20,Saturday,dinner,Chapati Dal,3,0,0,1,rain,419,387,470,83,0
+2026-06-21,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,314,339,357,18,0
+2026-06-21,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,447,531,499,0,1
+2026-06-21,Sunday,dinner,Veg Pulao,3,0,0,1,normal,299,308,327,19,0
+2026-06-22,Monday,breakfast,Idli Sambar,4,0,0,0,rain,358,318,407,89,0
+2026-06-22,Monday,lunch,Veg Meals,3,0,0,0,rain,481,482,534,52,0
+2026-06-22,Monday,dinner,Chapati Dal,3,0,0,0,rain,465,452,529,77,0
+2026-06-23,Tuesday,breakfast,Pongal,3,0,0,0,normal,354,344,398,54,0
+2026-06-23,Tuesday,lunch,Chicken Biryani,5,0,0,0,normal,486,555,541,0,1
+2026-06-23,Tuesday,dinner,Egg Curry Rice,4,0,0,0,normal,462,481,519,38,0
+2026-06-24,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,339,405,367,0,1
+2026-06-24,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,481,447,538,91,0
+2026-06-24,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,465,488,530,42,0
+2026-06-25,Thursday,breakfast,Upma,2,0,0,0,rain,344,287,383,96,0
+2026-06-25,Thursday,lunch,Veg Fried Rice,4,0,0,0,rain,472,530,540,10,0
+2026-06-25,Thursday,dinner,Egg Curry Rice,4,0,0,0,rain,445,497,499,2,0
+2026-06-26,Friday,breakfast,Idli Sambar,4,1,0,0,hot,337,212,383,171,0
+2026-06-26,Friday,lunch,Curd Rice Meals,3,1,0,0,hot,487,261,546,285,0
+2026-06-26,Friday,dinner,Veg Fried Rice,4,1,0,0,hot,417,286,470,184,0
+2026-06-27,Saturday,breakfast,Chapati Kurma,3,0,0,1,hot,294,306,329,23,0
+2026-06-27,Saturday,lunch,Veg Meals,3,0,0,1,hot,440,392,485,93,0
+2026-06-27,Saturday,dinner,Chapati Dal,3,0,0,1,hot,409,402,460,58,0
+2026-06-28,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,261,341,281,0,1
+2026-06-28,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,444,523,497,0,1
+2026-06-28,Sunday,dinner,Veg Pulao,3,0,0,1,normal,293,320,321,1,0
+2026-06-29,Monday,breakfast,Idli Sambar,4,0,0,0,rain,352,354,379,25,0
+2026-06-29,Monday,lunch,Veg Meals,3,0,0,0,rain,467,452,521,69,0
+2026-06-29,Monday,dinner,Chapati Dal,3,0,0,0,rain,480,442,534,92,0
+2026-06-30,Tuesday,breakfast,Pongal,3,0,0,0,normal,367,341,412,71,0
+2026-06-30,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,465,507,533,26,0
+2026-06-30,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,458,436,507,71,0
+2026-07-01,Wednesday,breakfast,Poori Masala,4,0,0,0,rain,349,346,397,51,0
+2026-07-01,Wednesday,lunch,Sambar Rice,2,0,0,0,rain,493,455,560,105,0
+2026-07-01,Wednesday,dinner,Parotta Salna,5,0,0,0,rain,436,521,489,0,1
+2026-07-02,Thursday,breakfast,Upma,2,0,0,0,normal,357,357,402,45,0
+2026-07-02,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,480,515,540,25,0
+2026-07-02,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,454,506,512,6,0
+2026-07-03,Friday,breakfast,Idli Sambar,4,0,0,0,rain,364,340,409,69,0
+2026-07-03,Friday,lunch,Curd Rice Meals,3,0,0,0,rain,494,459,555,96,0
+2026-07-03,Friday,dinner,Veg Fried Rice,4,0,0,0,rain,350,435,394,0,1
+2026-07-04,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,324,322,356,34,0
+2026-07-04,Saturday,lunch,Veg Fried Rice,4,0,0,1,normal,412,474,475,1,0
+2026-07-04,Saturday,dinner,Chapati Dal,3,0,0,1,normal,444,416,498,82,0
+2026-07-05,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,268,339,299,0,1
+2026-07-05,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,440,527,492,0,1
+2026-07-05,Sunday,dinner,Veg Pulao,3,0,0,1,normal,295,317,324,7,0
+2026-07-06,Monday,breakfast,Idli Sambar,4,0,0,0,normal,368,366,415,49,0
+2026-07-06,Monday,lunch,Veg Meals,3,0,0,0,normal,498,484,560,76,0
+2026-07-06,Monday,dinner,Parotta Salna,5,0,0,0,normal,464,512,518,6,0
+2026-07-07,Tuesday,breakfast,Pongal,3,0,0,0,normal,392,379,447,68,0
+2026-07-07,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,498,486,558,72,0
+2026-07-07,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,455,469,505,36,0
+2026-07-08,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,366,385,414,29,0
+2026-07-08,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,489,458,540,82,0
+2026-07-08,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,418,529,462,0,1
+2026-07-09,Thursday,breakfast,Upma,2,0,0,0,normal,354,332,400,68,0
+2026-07-09,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,490,519,552,33,0
+2026-07-09,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,398,472,446,0,1
+2026-07-10,Friday,breakfast,Idli Sambar,4,0,0,0,normal,353,389,392,3,0
+2026-07-10,Friday,lunch,Veg Fried Rice,4,0,0,0,normal,489,498,544,46,0
+2026-07-10,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,391,450,444,0,1
+2026-07-11,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,303,308,336,28,0
+2026-07-11,Saturday,lunch,Veg Meals,3,0,0,1,normal,432,408,476,68,0
+2026-07-11,Saturday,dinner,Chapati Dal,3,0,0,1,normal,461,412,508,96,0
+2026-07-12,Sunday,breakfast,Masala Dosa,5,0,0,1,rain,290,303,327,24,0
+2026-07-12,Sunday,lunch,Chicken Biryani,5,0,0,1,rain,436,537,495,0,1
+2026-07-12,Sunday,dinner,Veg Pulao,3,0,0,1,rain,293,303,331,28,0
+2026-07-13,Monday,breakfast,Idli Sambar,4,0,0,0,normal,340,383,379,0,1
+2026-07-13,Monday,lunch,Veg Meals,3,0,0,0,normal,485,465,551,86,0
+2026-07-13,Monday,dinner,Chapati Dal,3,0,0,0,normal,489,447,549,102,0
+2026-07-14,Tuesday,breakfast,Pongal,3,0,0,0,rain,362,317,403,86,0
+2026-07-14,Tuesday,lunch,Chicken Biryani,5,0,0,0,rain,496,520,554,34,0
+2026-07-14,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,rain,474,447,532,85,0
+2026-07-15,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,388,384,438,54,0
+2026-07-15,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,507,466,572,106,0
+2026-07-15,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,472,517,521,4,0
+2026-07-16,Thursday,breakfast,Upma,2,0,0,0,normal,387,345,432,87,0
+2026-07-16,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,482,509,540,31,0
+2026-07-16,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,455,472,504,32,0
+2026-07-17,Friday,breakfast,Masala Dosa,5,0,0,0,rain,345,353,385,32,0
+2026-07-17,Friday,lunch,Curd Rice Meals,3,0,0,0,rain,463,480,517,37,0
+2026-07-17,Friday,dinner,Veg Fried Rice,4,0,0,0,rain,405,417,449,32,0
+2026-07-18,Saturday,breakfast,Chapati Kurma,3,0,0,1,rain,318,291,356,65,0
+2026-07-18,Saturday,lunch,Veg Meals,3,0,0,1,rain,459,410,500,90,0
+2026-07-18,Saturday,dinner,Chapati Dal,3,0,0,1,rain,411,395,464,69,0
+2026-07-19,Sunday,breakfast,Masala Dosa,5,0,0,1,rain,303,310,340,30,0
+2026-07-19,Sunday,lunch,Chicken Biryani,5,0,0,1,rain,434,516,490,0,1
+2026-07-19,Sunday,dinner,Veg Pulao,3,0,0,1,rain,333,304,358,54,0
+2026-07-20,Monday,breakfast,Idli Sambar,4,0,0,0,rain,355,335,389,54,0
+2026-07-20,Monday,lunch,Veg Meals,3,0,0,0,rain,539,452,614,162,0
+2026-07-20,Monday,dinner,Egg Curry Rice,4,0,0,0,rain,412,459,461,2,0
+2026-07-21,Tuesday,breakfast,Pongal,3,0,0,0,normal,346,340,388,48,0
+2026-07-21,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,448,487,507,20,0
+2026-07-21,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,456,466,502,36,0
+2026-07-22,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,357,393,409,16,0
+2026-07-22,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,498,442,569,127,0
+2026-07-22,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,435,515,496,0,1
+2026-07-23,Thursday,breakfast,Upma,2,0,0,0,rain,368,290,412,122,0
+2026-07-23,Thursday,lunch,Veg Fried Rice,4,0,0,0,rain,463,486,513,27,0
+2026-07-23,Thursday,dinner,Egg Curry Rice,4,0,0,0,rain,467,473,520,47,0
+2026-07-24,Friday,breakfast,Idli Sambar,4,0,0,0,normal,325,339,353,14,0
+2026-07-24,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,496,446,555,109,0
+2026-07-24,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,426,445,472,27,0
+2026-07-25,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,326,310,369,59,0
+2026-07-25,Saturday,lunch,Veg Meals,3,0,0,1,normal,397,406,445,39,0
+2026-07-25,Saturday,dinner,Chapati Dal,3,0,0,1,normal,411,399,464,65,0
+2026-07-26,Sunday,breakfast,Masala Dosa,5,0,0,1,rain,274,312,317,5,0
+2026-07-26,Sunday,lunch,Chicken Biryani,5,0,0,1,rain,448,530,499,0,1
+2026-07-26,Sunday,dinner,Veg Pulao,3,0,0,1,rain,286,302,326,24,0
+2026-07-27,Monday,breakfast,Idli Sambar,4,0,0,0,normal,347,389,385,0,1
+2026-07-27,Monday,lunch,Veg Meals,3,0,0,0,normal,522,479,582,103,0
+2026-07-27,Monday,dinner,Chapati Dal,3,0,0,0,normal,474,458,528,70,0
+2026-07-28,Tuesday,breakfast,Pongal,3,0,0,0,normal,372,349,421,72,0
+2026-07-28,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,515,506,575,69,0
+2026-07-28,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,457,446,508,62,0
+2026-07-29,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,381,382,414,32,0
+2026-07-29,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,481,459,540,81,0
+2026-07-29,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,502,538,567,29,0
+2026-07-30,Thursday,breakfast,Upma,2,0,0,0,rain,322,291,362,71,0
+2026-07-30,Thursday,lunch,Veg Fried Rice,4,0,0,0,rain,464,471,513,42,0
+2026-07-30,Thursday,dinner,Egg Curry Rice,4,0,0,0,rain,400,469,452,0,1
+2026-07-31,Friday,breakfast,Idli Sambar,4,0,0,0,normal,332,341,379,38,0
+2026-07-31,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,438,460,495,35,0
+2026-07-31,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,422,445,484,39,0
+2026-08-01,Saturday,breakfast,Chapati Kurma,3,0,0,1,rain,336,264,372,108,0
+2026-08-01,Saturday,lunch,Veg Meals,3,0,0,1,rain,389,409,437,28,0
+2026-08-01,Saturday,dinner,Chapati Dal,3,0,0,1,rain,378,406,423,17,0
+2026-08-02,Sunday,breakfast,Masala Dosa,5,0,0,1,rain,301,288,339,51,0
+2026-08-02,Sunday,lunch,Chicken Biryani,5,0,0,1,rain,457,544,516,0,1
+2026-08-02,Sunday,dinner,Veg Pulao,3,0,0,1,rain,298,302,336,34,0
+2026-08-03,Monday,breakfast,Idli Sambar,4,0,0,0,rain,402,327,452,125,0
+2026-08-03,Monday,lunch,Veg Meals,3,0,0,0,rain,477,481,533,52,0
+2026-08-03,Monday,dinner,Chapati Dal,3,0,0,0,rain,464,427,531,104,0
+2026-08-04,Tuesday,breakfast,Pongal,3,0,0,0,rain,353,311,394,83,0
+2026-08-04,Tuesday,lunch,Lemon Rice,3,0,0,0,rain,438,481,496,15,0
+2026-08-04,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,rain,430,453,490,37,0
+2026-08-05,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,375,365,422,57,0
+2026-08-05,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,489,446,551,105,0
+2026-08-05,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,490,544,556,12,0
+2026-08-06,Thursday,breakfast,Upma,2,0,0,0,normal,328,333,368,35,0
+2026-08-06,Thursday,lunch,Chicken Biryani,5,0,0,0,normal,488,545,541,0,1
+2026-08-06,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,435,503,490,0,1
+2026-08-07,Friday,breakfast,Idli Sambar,4,0,0,0,rain,346,336,391,55,0
+2026-08-07,Friday,lunch,Curd Rice Meals,3,0,0,0,rain,458,470,512,42,0
+2026-08-07,Friday,dinner,Parotta Salna,5,0,0,0,rain,416,486,470,0,1
+2026-08-08,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,352,312,385,73,0
+2026-08-08,Saturday,lunch,Veg Meals,3,0,0,1,normal,404,443,466,23,0
+2026-08-08,Saturday,dinner,Chapati Dal,3,0,0,1,normal,411,424,459,35,0
+2026-08-09,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,291,357,320,0,1
+2026-08-09,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,461,544,521,0,1
+2026-08-09,Sunday,dinner,Veg Pulao,3,0,0,1,normal,297,300,323,23,0
+2026-08-10,Monday,breakfast,Idli Sambar,4,0,0,0,normal,307,379,336,0,1
+2026-08-10,Monday,lunch,Veg Meals,3,0,0,0,normal,489,469,539,70,0
+2026-08-10,Monday,dinner,Chapati Dal,3,0,0,0,normal,463,454,533,79,0
+2026-08-11,Tuesday,breakfast,Pongal,3,0,0,0,normal,354,353,400,47,0
+2026-08-11,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,515,473,576,103,0
+2026-08-11,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,497,457,559,102,0
+2026-08-12,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,368,374,418,44,0
+2026-08-12,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,447,426,492,66,0
+2026-08-12,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,482,540,540,0,0
+2026-08-13,Thursday,breakfast,Upma,2,0,0,0,normal,398,333,437,104,0
+2026-08-13,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,491,544,553,9,0
+2026-08-13,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,464,484,515,31,0
+2026-08-14,Friday,breakfast,Idli Sambar,4,0,0,0,hot,352,378,391,13,0
+2026-08-14,Friday,lunch,Curd Rice Meals,3,0,0,0,hot,441,433,492,59,0
+2026-08-14,Friday,dinner,Veg Fried Rice,4,0,0,0,hot,387,444,438,0,1
+2026-08-15,Saturday,breakfast,Chapati Kurma,3,1,0,1,normal,338,170,381,211,0
+2026-08-15,Saturday,lunch,Veg Meals,3,1,0,1,normal,378,258,423,165,0
+2026-08-15,Saturday,dinner,Chapati Dal,3,1,0,1,normal,412,268,465,197,0
+2026-08-16,Sunday,breakfast,Masala Dosa,5,0,0,1,hot,291,320,322,2,0
+2026-08-16,Sunday,lunch,Chicken Biryani,5,0,0,1,hot,403,495,444,0,1
+2026-08-16,Sunday,dinner,Veg Pulao,3,0,0,1,hot,307,308,341,33,0
+2026-08-17,Monday,breakfast,Masala Dosa,5,0,0,0,normal,322,422,364,0,1
+2026-08-17,Monday,lunch,Veg Meals,3,0,0,0,normal,504,485,557,72,0
+2026-08-17,Monday,dinner,Parotta Salna,5,0,0,0,normal,473,520,520,0,0
+2026-08-18,Tuesday,breakfast,Pongal,3,0,0,0,normal,375,357,421,64,0
+2026-08-18,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,474,503,520,17,0
+2026-08-18,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,465,465,511,46,0
+2026-08-19,Wednesday,breakfast,Poori Masala,4,0,0,0,rain,335,335,371,36,0
+2026-08-19,Wednesday,lunch,Sambar Rice,2,0,0,0,rain,499,445,558,113,0
+2026-08-19,Wednesday,dinner,Parotta Salna,5,0,0,0,rain,437,530,483,0,1
+2026-08-20,Thursday,breakfast,Upma,2,0,0,0,rain,363,283,411,128,0
+2026-08-20,Thursday,lunch,Veg Fried Rice,4,0,0,0,rain,475,499,534,35,0
+2026-08-20,Thursday,dinner,Egg Curry Rice,4,0,0,0,rain,419,445,469,24,0
+2026-08-21,Friday,breakfast,Idli Sambar,4,0,0,0,normal,370,378,413,35,0
+2026-08-21,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,463,454,509,55,0
+2026-08-21,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,390,454,434,0,1
+2026-08-22,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,305,315,344,29,0
+2026-08-22,Saturday,lunch,Veg Meals,3,0,0,1,normal,427,427,488,61,0
+2026-08-22,Saturday,dinner,Chapati Dal,3,0,0,1,normal,434,410,494,84,0
+2026-08-23,Sunday,breakfast,Masala Dosa,5,0,0,1,rain,295,313,332,19,0
+2026-08-23,Sunday,lunch,Chicken Biryani,5,0,0,1,rain,453,504,506,2,0
+2026-08-23,Sunday,dinner,Veg Pulao,3,0,0,1,rain,300,305,339,34,0
+2026-08-24,Monday,breakfast,Idli Sambar,4,0,0,0,rain,346,343,391,48,0
+2026-08-24,Monday,lunch,Veg Meals,3,0,0,0,rain,508,478,570,92,0
+2026-08-24,Monday,dinner,Chapati Dal,3,0,0,0,rain,492,410,553,143,0
+2026-08-25,Tuesday,breakfast,Pongal,3,0,0,0,normal,363,350,406,56,0
+2026-08-25,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,438,498,496,0,1
+2026-08-25,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,422,453,476,23,0
+2026-08-26,Wednesday,breakfast,Poori Masala,4,1,0,0,normal,333,217,373,156,0
+2026-08-26,Wednesday,lunch,Sambar Rice,2,1,0,0,normal,476,279,529,250,0
+2026-08-26,Wednesday,dinner,Parotta Salna,5,1,0,0,normal,468,365,522,157,0
+2026-08-27,Thursday,breakfast,Upma,2,0,0,0,normal,328,339,372,33,0
+2026-08-27,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,454,557,508,0,1
+2026-08-27,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,431,498,484,0,1
+2026-08-28,Friday,breakfast,Idli Sambar,4,0,0,0,normal,348,365,380,15,0
+2026-08-28,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,460,473,506,33,0
+2026-08-28,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,396,445,442,0,1
+2026-08-29,Saturday,breakfast,Chapati Kurma,3,0,0,1,rain,336,274,372,98,0
+2026-08-29,Saturday,lunch,Veg Meals,3,0,0,1,rain,428,402,479,77,0
+2026-08-29,Saturday,dinner,Chapati Dal,3,0,0,1,rain,378,395,415,20,0
+2026-08-30,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,294,325,326,1,0
+2026-08-30,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,451,495,498,3,0
+2026-08-30,Sunday,dinner,Veg Pulao,3,0,0,1,normal,274,312,308,0,1
+2026-08-31,Monday,breakfast,Idli Sambar,4,0,0,0,normal,378,389,422,33,0
+2026-08-31,Monday,lunch,Veg Meals,3,0,0,0,normal,495,442,554,112,0
+2026-08-31,Monday,dinner,Chapati Dal,3,0,0,0,normal,443,458,493,35,0
+2026-09-01,Tuesday,breakfast,Pongal,3,0,0,0,rain,335,328,371,43,0
+2026-09-01,Tuesday,lunch,Lemon Rice,3,0,0,0,rain,482,484,534,50,0
+2026-09-01,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,rain,457,448,511,63,0
+2026-09-02,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,351,366,399,33,0
+2026-09-02,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,460,443,516,73,0
+2026-09-02,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,468,566,516,0,1
+2026-09-03,Thursday,breakfast,Upma,2,0,0,0,normal,366,328,407,79,0
+2026-09-03,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,465,500,517,17,0
+2026-09-03,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,461,497,527,30,0
+2026-09-04,Friday,breakfast,Idli Sambar,4,1,0,0,normal,329,206,364,158,0
+2026-09-04,Friday,lunch,Curd Rice Meals,3,1,0,0,normal,441,269,493,224,0
+2026-09-04,Friday,dinner,Egg Curry Rice,4,1,0,0,normal,468,276,521,245,0
+2026-09-05,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,335,336,377,41,0
+2026-09-05,Saturday,lunch,Veg Meals,3,0,0,1,normal,399,426,456,30,0
+2026-09-05,Saturday,dinner,Parotta Salna,5,0,0,1,normal,360,486,397,0,1
+2026-09-06,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,265,353,299,0,1
+2026-09-06,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,446,496,501,5,0
+2026-09-06,Sunday,dinner,Veg Pulao,3,0,0,1,normal,305,290,340,50,0
+2026-09-07,Monday,breakfast,Idli Sambar,4,0,0,0,rain,359,334,405,71,0
+2026-09-07,Monday,lunch,Veg Meals,3,0,0,0,rain,482,459,528,69,0
+2026-09-07,Monday,dinner,Chapati Dal,3,0,0,0,rain,457,447,518,71,0
+2026-09-08,Tuesday,breakfast,Pongal,3,0,0,0,normal,360,363,404,41,0
+2026-09-08,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,502,491,565,74,0
+2026-09-08,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,474,422,538,116,0
+2026-09-09,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,375,394,429,35,0
+2026-09-09,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,498,443,558,115,0
+2026-09-09,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,469,546,526,0,1
+2026-09-10,Thursday,breakfast,Upma,2,0,0,0,normal,344,352,382,30,0
+2026-09-10,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,444,529,489,0,1
+2026-09-10,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,422,479,470,0,1
+2026-09-11,Friday,breakfast,Idli Sambar,4,0,0,0,hot,344,377,389,12,0
+2026-09-11,Friday,lunch,Veg Fried Rice,4,0,0,0,hot,490,470,551,81,0
+2026-09-11,Friday,dinner,Veg Fried Rice,4,0,0,0,hot,388,449,443,0,1
+2026-09-12,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,313,319,355,36,0
+2026-09-12,Saturday,lunch,Veg Meals,3,0,0,1,normal,441,426,491,65,0
+2026-09-12,Saturday,dinner,Chapati Dal,3,0,0,1,normal,389,393,425,32,0
+2026-09-13,Sunday,breakfast,Masala Dosa,5,0,0,1,hot,265,357,301,0,1
+2026-09-13,Sunday,lunch,Chicken Biryani,5,0,0,1,hot,449,492,491,0,1
+2026-09-13,Sunday,dinner,Veg Pulao,3,0,0,1,hot,313,299,341,42,0
+2026-09-14,Monday,breakfast,Masala Dosa,5,1,0,0,normal,340,227,368,141,0
+2026-09-14,Monday,lunch,Veg Fried Rice,4,1,0,0,normal,443,302,499,197,0
+2026-09-14,Monday,dinner,Chapati Dal,3,1,0,0,normal,443,285,503,218,0
+2026-09-15,Tuesday,breakfast,Masala Dosa,5,0,0,0,normal,339,434,380,0,1
+2026-09-15,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,490,472,544,72,0
+2026-09-15,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,389,465,443,0,1
+2026-09-16,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,354,399,388,0,1
+2026-09-16,Wednesday,lunch,Veg Fried Rice,4,0,0,0,normal,507,479,568,89,0
+2026-09-16,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,433,527,490,0,1
+2026-09-17,Thursday,breakfast,Upma,2,0,0,0,rain,344,290,393,103,0
+2026-09-17,Thursday,lunch,Veg Fried Rice,4,0,0,0,rain,479,526,530,4,0
+2026-09-17,Thursday,dinner,Egg Curry Rice,4,0,0,0,rain,418,455,469,14,0
+2026-09-18,Friday,breakfast,Idli Sambar,4,0,0,0,normal,318,369,352,0,1
+2026-09-18,Friday,lunch,Curd Rice Meals,3,0,0,0,normal,512,451,574,123,0
+2026-09-18,Friday,dinner,Veg Fried Rice,4,0,0,0,normal,397,412,446,34,0
+2026-09-19,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,312,303,346,43,0
+2026-09-19,Saturday,lunch,Veg Meals,3,0,0,1,normal,417,413,466,53,0
+2026-09-19,Saturday,dinner,Chapati Dal,3,0,0,1,normal,415,417,464,47,0
+2026-09-20,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,284,337,319,0,1
+2026-09-20,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,464,502,508,6,0
+2026-09-20,Sunday,dinner,Egg Curry Rice,4,0,0,1,normal,318,350,357,7,0
+2026-09-21,Monday,breakfast,Idli Sambar,4,0,0,0,normal,346,382,386,4,0
+2026-09-21,Monday,lunch,Veg Meals,3,0,0,0,normal,461,467,508,41,0
+2026-09-21,Monday,dinner,Chapati Dal,3,0,0,0,normal,461,465,522,57,0
+2026-09-22,Tuesday,breakfast,Pongal,3,0,0,0,normal,358,364,398,34,0
+2026-09-22,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,464,472,522,50,0
+2026-09-22,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,482,434,539,105,0
+2026-09-23,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,337,394,388,0,1
+2026-09-23,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,518,446,581,135,0
+2026-09-23,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,469,526,528,2,0
+2026-09-24,Thursday,breakfast,Upma,2,0,0,0,normal,359,336,394,58,0
+2026-09-24,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,418,524,469,0,1
+2026-09-24,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,436,500,492,0,1
+2026-09-25,Friday,breakfast,Idli Sambar,4,0,0,0,rain,341,337,388,51,0
+2026-09-25,Friday,lunch,Curd Rice Meals,3,0,0,0,rain,487,456,549,93,0
+2026-09-25,Friday,dinner,Veg Fried Rice,4,0,0,0,rain,382,419,422,3,0
+2026-09-26,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,299,318,339,21,0
+2026-09-26,Saturday,lunch,Veg Meals,3,0,0,1,normal,483,440,543,103,0
+2026-09-26,Saturday,dinner,Chapati Dal,3,0,0,1,normal,373,403,414,11,0
+2026-09-27,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,292,360,329,0,1
+2026-09-27,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,468,524,524,0,0
+2026-09-27,Sunday,dinner,Veg Pulao,3,0,0,1,normal,305,308,333,25,0
+2026-09-28,Monday,breakfast,Idli Sambar,4,0,1,0,rain,337,289,377,88,0
+2026-09-28,Monday,lunch,Veg Meals,3,0,1,0,rain,458,400,515,115,0
+2026-09-28,Monday,dinner,Parotta Salna,5,0,1,0,rain,479,504,541,37,0
+2026-09-29,Tuesday,breakfast,Pongal,3,0,1,0,normal,368,299,413,114,0
+2026-09-29,Tuesday,lunch,Lemon Rice,3,0,1,0,normal,500,448,561,113,0
+2026-09-29,Tuesday,dinner,Idiyappam Kurma,3,0,1,0,normal,438,446,480,34,0
+2026-09-30,Wednesday,breakfast,Poori Masala,4,0,1,0,normal,347,308,393,85,0
+2026-09-30,Wednesday,lunch,Sambar Rice,2,0,1,0,normal,514,408,569,161,0
+2026-09-30,Wednesday,dinner,Parotta Salna,5,0,1,0,normal,465,515,524,9,0
+2026-10-01,Thursday,breakfast,Upma,2,0,1,0,normal,355,289,398,109,0
+2026-10-01,Thursday,lunch,Veg Fried Rice,4,0,1,0,normal,499,481,562,81,0
+2026-10-01,Thursday,dinner,Egg Curry Rice,4,0,1,0,normal,448,441,502,61,0
+2026-10-02,Friday,breakfast,Idli Sambar,4,1,1,0,rain,357,151,406,255,0
+2026-10-02,Friday,lunch,Curd Rice Meals,3,1,1,0,rain,457,273,514,241,0
+2026-10-02,Friday,dinner,Veg Fried Rice,4,1,1,0,rain,416,262,471,209,0
+2026-10-03,Saturday,breakfast,Chapati Kurma,3,0,1,1,normal,312,268,366,98,0
+2026-10-03,Saturday,lunch,Veg Meals,3,0,1,1,normal,408,383,451,68,0
+2026-10-03,Saturday,dinner,Chapati Dal,3,0,1,1,normal,413,385,462,77,0
+2026-10-04,Sunday,breakfast,Masala Dosa,5,0,1,1,normal,291,278,330,52,0
+2026-10-04,Sunday,lunch,Chicken Biryani,5,0,1,1,normal,462,476,513,37,0
+2026-10-04,Sunday,dinner,Veg Pulao,3,0,1,1,normal,330,285,373,88,0
+2026-10-05,Monday,breakfast,Masala Dosa,5,0,1,0,normal,329,397,364,0,1
+2026-10-05,Monday,lunch,Veg Meals,3,0,1,0,normal,454,433,507,74,0
+2026-10-05,Monday,dinner,Chapati Dal,3,0,1,0,normal,457,438,515,77,0
+2026-10-06,Tuesday,breakfast,Masala Dosa,5,0,1,0,rain,398,314,447,133,0
+2026-10-06,Tuesday,lunch,Veg Fried Rice,4,0,1,0,rain,480,435,537,102,0
+2026-10-06,Tuesday,dinner,Idiyappam Kurma,3,0,1,0,rain,469,454,530,76,0
+2026-10-07,Wednesday,breakfast,Poori Masala,4,0,1,0,rain,363,289,395,106,0
+2026-10-07,Wednesday,lunch,Sambar Rice,2,0,1,0,rain,475,403,527,124,0
+2026-10-07,Wednesday,dinner,Parotta Salna,5,0,1,0,rain,458,498,517,19,0
+2026-10-08,Thursday,breakfast,Upma,2,0,1,0,normal,368,280,416,136,0
+2026-10-08,Thursday,lunch,Veg Fried Rice,4,0,1,0,normal,504,491,572,81,0
+2026-10-08,Thursday,dinner,Egg Curry Rice,4,0,1,0,normal,447,440,501,61,0
+2026-10-09,Friday,breakfast,Idli Sambar,4,0,1,0,normal,351,301,389,88,0
+2026-10-09,Friday,lunch,Curd Rice Meals,3,0,1,0,normal,440,421,494,73,0
+2026-10-09,Friday,dinner,Veg Fried Rice,4,0,1,0,normal,455,426,511,85,0
+2026-10-10,Saturday,breakfast,Chapati Kurma,3,0,0,1,normal,342,303,377,74,0
+2026-10-10,Saturday,lunch,Chicken Biryani,5,0,0,1,normal,403,497,450,0,1
+2026-10-10,Saturday,dinner,Chapati Dal,3,0,0,1,normal,382,399,433,34,0
+2026-10-11,Sunday,breakfast,Masala Dosa,5,0,0,1,rain,277,282,310,28,0
+2026-10-11,Sunday,lunch,Chicken Biryani,5,0,0,1,rain,445,492,502,10,0
+2026-10-11,Sunday,dinner,Veg Pulao,3,0,0,1,rain,292,315,329,14,0
+2026-10-12,Monday,breakfast,Idli Sambar,4,0,0,0,normal,317,393,350,0,1
+2026-10-12,Monday,lunch,Veg Meals,3,0,0,0,normal,491,477,555,78,0
+2026-10-12,Monday,dinner,Chapati Dal,3,0,0,0,normal,414,453,461,8,0
+2026-10-13,Tuesday,breakfast,Masala Dosa,5,0,0,0,rain,376,382,422,40,0
+2026-10-13,Tuesday,lunch,Lemon Rice,3,0,0,0,rain,525,445,585,140,0
+2026-10-13,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,rain,456,466,517,51,0
+2026-10-14,Wednesday,breakfast,Poori Masala,4,0,0,0,rain,373,343,431,88,0
+2026-10-14,Wednesday,lunch,Sambar Rice,2,0,0,0,rain,491,409,557,148,0
+2026-10-14,Wednesday,dinner,Parotta Salna,5,0,0,0,rain,483,519,547,28,0
+2026-10-15,Thursday,breakfast,Upma,2,0,0,0,normal,354,329,394,65,0
+2026-10-15,Thursday,lunch,Veg Fried Rice,4,0,0,0,normal,470,464,529,65,0
+2026-10-15,Thursday,dinner,Egg Curry Rice,4,0,0,0,normal,447,511,508,0,1
+2026-10-16,Friday,breakfast,Idli Sambar,4,0,0,0,rain,373,332,418,86,0
+2026-10-16,Friday,lunch,Curd Rice Meals,3,0,0,0,rain,459,457,517,60,0
+2026-10-16,Friday,dinner,Veg Fried Rice,4,0,0,0,rain,419,426,477,51,0
+2026-10-17,Saturday,breakfast,Chapati Kurma,3,0,0,1,hot,325,290,351,61,0
+2026-10-17,Saturday,lunch,Veg Meals,3,0,0,1,hot,444,404,492,88,0
+2026-10-17,Saturday,dinner,Chapati Dal,3,0,0,1,hot,410,414,456,42,0
+2026-10-18,Sunday,breakfast,Masala Dosa,5,0,0,1,normal,303,350,344,0,1
+2026-10-18,Sunday,lunch,Chicken Biryani,5,0,0,1,normal,401,523,448,0,1
+2026-10-18,Sunday,dinner,Veg Pulao,3,0,0,1,normal,307,300,340,40,0
+2026-10-19,Monday,breakfast,Idli Sambar,4,0,0,0,rain,371,347,415,68,0
+2026-10-19,Monday,lunch,Veg Meals,3,0,0,0,rain,428,446,480,34,0
+2026-10-19,Monday,dinner,Chapati Dal,3,0,0,0,rain,492,466,560,94,0
+2026-10-20,Tuesday,breakfast,Pongal,3,0,0,0,normal,406,366,464,98,0
+2026-10-20,Tuesday,lunch,Lemon Rice,3,0,0,0,normal,459,473,519,46,0
+2026-10-20,Tuesday,dinner,Idiyappam Kurma,3,0,0,0,normal,453,452,517,65,0
+2026-10-21,Wednesday,breakfast,Poori Masala,4,0,0,0,normal,347,392,389,0,1
+2026-10-21,Wednesday,lunch,Sambar Rice,2,0,0,0,normal,499,442,550,108,0
+2026-10-21,Wednesday,dinner,Parotta Salna,5,0,0,0,normal,442,551,485,0,1

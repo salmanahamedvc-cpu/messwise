@@ -1,0 +1,201 @@
+{
+ "sklearn": "1.9.0",
+ "students": 600,
+ "cost_per_serving_rs": 60,
+ "meals": [
+  "breakfast",
+  "lunch",
+  "dinner"
+ ],
+ "menus": {
+  "breakfast": [
+   "Chapati Kurma",
+   "Idli Sambar",
+   "Masala Dosa",
+   "Pongal",
+   "Poori Masala",
+   "Upma"
+  ],
+  "lunch": [
+   "Chicken Biryani",
+   "Curd Rice Meals",
+   "Lemon Rice",
+   "Sambar Rice",
+   "Veg Fried Rice",
+   "Veg Meals"
+  ],
+  "dinner": [
+   "Chapati Dal",
+   "Egg Curry Rice",
+   "Idiyappam Kurma",
+   "Parotta Salna",
+   "Veg Fried Rice",
+   "Veg Pulao"
+  ]
+ },
+ "popularity": {
+  "Idli Sambar": 4,
+  "Pongal": 3,
+  "Poori Masala": 4,
+  "Upma": 2,
+  "Chapati Kurma": 3,
+  "Masala Dosa": 5,
+  "Veg Meals": 3,
+  "Lemon Rice": 3,
+  "Sambar Rice": 2,
+  "Veg Fried Rice": 4,
+  "Curd Rice Meals": 3,
+  "Chicken Biryani": 5,
+  "Chapati Dal": 3,
+  "Idiyappam Kurma": 3,
+  "Parotta Salna": 5,
+  "Egg Curry Rice": 4,
+  "Veg Pulao": 3
+ },
+ "default_menu": {
+  "breakfast": [
+   "Idli Sambar",
+   "Pongal",
+   "Poori Masala",
+   "Upma",
+   "Idli Sambar",
+   "Chapati Kurma",
+   "Masala Dosa"
+  ],
+  "lunch": [
+   "Veg Meals",
+   "Lemon Rice",
+   "Sambar Rice",
+   "Veg Fried Rice",
+   "Curd Rice Meals",
+   "Veg Meals",
+   "Chicken Biryani"
+  ],
+  "dinner": [
+   "Chapati Dal",
+   "Idiyappam Kurma",
+   "Parotta Salna",
+   "Egg Curry Rice",
+   "Veg Fried Rice",
+   "Chapati Dal",
+   "Veg Pulao"
+  ]
+ },
+ "expected_defaults": {
+  "breakfast": {
+   "0": 350,
+   "1": 359,
+   "2": 357,
+   "3": 357,
+   "4": 346,
+   "5": 319,
+   "6": 285
+  },
+  "lunch": {
+   "0": 485,
+   "1": 478,
+   "2": 490,
+   "3": 472,
+   "4": 468,
+   "5": 421,
+   "6": 442
+  },
+  "dinner": {
+   "0": 463,
+   "1": 456,
+   "2": 458,
+   "3": 439,
+   "4": 406,
+   "5": 406,
+   "6": 305
+  }
+ },
+ "prep_buffer": 1.12,
+ "rec_buffer": 0.6,
+ "holidays": [
+  "2026-05-27",
+  "2026-06-26",
+  "2026-08-15",
+  "2026-08-26",
+  "2026-09-04",
+  "2026-09-14",
+  "2026-10-02"
+ ],
+ "exam_windows": [
+  [
+   "2026-06-08",
+   "2026-06-19"
+  ],
+  [
+   "2026-09-28",
+   "2026-10-09"
+  ]
+ ],
+ "data_range": [
+  "2026-04-22",
+  "2026-10-21"
+ ],
+ "rows": 549,
+ "metrics": {
+  "baseline_mae": 33.214285714285715,
+  "baseline_mape": 9.537167808990201,
+  "model_mae": 15.562091801066748,
+  "model_mape": 4.192675616059738,
+  "conformal_offset": 8.623346927094815,
+  "interval_coverage_pct": 78.0952380952381,
+  "train_rows": 444,
+  "test_rows": 105,
+  "train_period": [
+   "2026-04-22",
+   "2026-09-16"
+  ],
+  "test_period": [
+   "2026-09-17",
+   "2026-10-21"
+  ],
+  "mae_improvement_pct": 53.14639027635818,
+  "mape_improvement_pct": 56.03856721376428
+ },
+ "feature_importance": [
+  {
+   "feature": "expected_attendance",
+   "label": "Expected headcount",
+   "importance": 61.0
+  },
+  {
+   "feature": "is_holiday",
+   "label": "Holiday",
+   "importance": 15.7
+  },
+  {
+   "feature": "menu_popularity_score",
+   "label": "Menu popularity",
+   "importance": 11.7
+  },
+  {
+   "feature": "meal_code",
+   "label": "Meal type",
+   "importance": 4.0
+  },
+  {
+   "feature": "is_exam_week",
+   "label": "Exam week",
+   "importance": 2.8
+  },
+  {
+   "feature": "weather_code",
+   "label": "Weather",
+   "importance": 2.1
+  },
+  {
+   "feature": "day_of_week",
+   "label": "Day of week",
+   "importance": 2.0
+  },
+  {
+   "feature": "is_weekend",
+   "label": "Weekend",
+   "importance": 0.6
+  }
+ ]
+}
