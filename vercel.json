@@ -1,6 +1,6 @@
-json
-   {
-     "rewrites": [
-       { "source": "/(.*)", "destination": "/index.html" }
-     ]
-   }
+{
+  "functions": {},
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
