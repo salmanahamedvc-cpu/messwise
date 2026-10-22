@@ -24,7 +24,7 @@ Forecasts how many students will eat each meal, with an 80% uncertainty range, a
 ## Run locally
 ```bash
 python -m venv .venv
-.venv\Scripts\activate          # Windows   (Mac/Linux: source .venv/bin/activate)
+.venv\Scripts\activate        # Windows   (Mac/Linux: source .venv/bin/activate)
 pip install -r requirements.txt
 python data/generate_data.py
 python model/train.py
@@ -53,4 +53,4 @@ Try: `curl -X POST localhost:8000/predict -H "Content-Type: application/json" -d
 **Cold start:** the free tier sleeps after about 15 minutes idle, and the first request can take 30-60 seconds (plus a few seconds to retrain if artifacts were stale). Open `/health` a few minutes before any demo.
 
 ## Tools and AI used
-Claude (Anthropic) for code and planning help; Python, pandas, NumPy, scikit-learn, FastAPI, Uvicorn, joblib. Add every other tool your team used.
+Claude & Gemini (AI) for code and planning help; Python, pandas, NumPy, scikit-learn, FastAPI, Uvicorn, joblib, Tailwind CSS, Vercel.
